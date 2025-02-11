@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/a8afd02b-b05e-4db7-9466-2a3da3473a43/resourceGroups/dev-rg/providers/Microsoft.ApiManagement/service/dev-dgf-apim-cicd/products/starter",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/a8afd02b-b05e-4db7-9466-2a3da3473a43/resourceGroups/dev-rg/providers/Microsoft.ApiManagement/service/dev-dgf-apim-cicd/users/1",
+    "state": "active"
+  }
+}
