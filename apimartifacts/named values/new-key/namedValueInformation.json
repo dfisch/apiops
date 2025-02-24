@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "displayName": "new-key",
+    "secret": false,
+    "tags": [],
+    "value": "plain text for dev"
+  }
+}
